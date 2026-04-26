@@ -1,0 +1,45 @@
+﻿  Category.cpp
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\Category.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+  GameBoy.cpp
+  Grid.cpp
+  HangmanFigure.cpp
+  HangmanGame.cpp
+  Keyboard.cpp
+  Letter.cpp
+  Menu.cpp
+  Point.cpp
+  Screen.cpp
+  SnakeGame.cpp
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(90,78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(90,78): warning C4244:         with
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(90,78): warning C4244:         [
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(90,78): warning C4244:             T=float
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(90,78): warning C4244:         ]
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(90,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(90,56): warning C4244:         with
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(90,56): warning C4244:         [
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(90,56): warning C4244:             T=float
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(90,56): warning C4244:         ]
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(99,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(99,74): warning C4244:         with
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(99,74): warning C4244:         [
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(99,74): warning C4244:             T=float
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(99,74): warning C4244:         ]
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(99,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(99,52): warning C4244:         with
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(99,52): warning C4244:         [
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(99,52): warning C4244:             T=float
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\SnakeGame.cpp(99,52): warning C4244:         ]
+  SnakeSegment.cpp
+  SoundSystem.cpp
+  Source.cpp
+  utils.cpp
+  Word.cpp
+  WordDictionary.cpp
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\WordDictionary.cpp(5,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WordleGame.cpp
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\WordleGame.cpp(8,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\OOP_GAMEBOY\WordleGame.cpp(8,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  OOP_GAMEBOY.vcxproj -> C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\OOP_GAMEBOY\OOP_GAMEBOY\x64\Debug\OOP_GAMEBOY.exe

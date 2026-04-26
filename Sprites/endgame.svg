@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+    <rect width="800" height="600" fill="#2ecc71"/>
+    <text x="400" y="300" 
+          font-family="Arial" 
+          font-size="72" 
+          text-anchor="middle" 
+          fill="white"
+          font-weight="bold">
+        END GAME
+    </text>
+</svg>

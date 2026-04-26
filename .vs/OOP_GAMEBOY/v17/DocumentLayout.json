@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Category.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Category.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Category.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Category.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\HangmanFigure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\HangmanFigure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\HangmanFigure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\HangmanFigure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\HangmanGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\HangmanGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\HangmanGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\HangmanGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Screen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Screen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\SnakeSegment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\SnakeSegment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\SnakeSegment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\SnakeSegment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\SnakeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\SnakeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\SnakeGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\SnakeGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Letter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Letter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Keyboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Keyboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\WordleGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\WordleGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\WordDictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\WordDictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Letter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Letter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\WordDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\WordDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\WordleGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\WordleGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Word.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Word.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Word.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Word.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\GameBoy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\GameBoy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\GameBoy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF607E0A-AB07-44F8-8ADD-0374C3CCE871}|OOP_GAMEBOY\\OOP_GAMEBOY.vcxproj|solutionrelative:OOP_GAMEBOY\\GameBoy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 34,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GameBoy.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\GameBoy.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\GameBoy.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\GameBoy.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\GameBoy.cpp",
+              "ViewState": "AgIAAA4AAACAz8zMzMwnwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T17:05:48.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GameBoy.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\GameBoy.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\GameBoy.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\GameBoy.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\GameBoy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T17:05:29.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Menu.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Menu.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Menu.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\Menu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T13:13:31.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Menu.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Menu.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Menu.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Menu.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\Menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T21:02:53.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Word.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Word.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Word.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Word.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\Word.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T12:06:11.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Word.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Word.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Word.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Word.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\Word.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T12:06:37.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Grid.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Grid.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Grid.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Grid.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\Grid.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T12:02:17.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Grid.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Grid.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Grid.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Grid.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\Grid.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T12:01:42.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "utils.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\utils.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\utils.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\utils.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\utils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T11:58:20.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WordleGame.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\WordleGame.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\WordleGame.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\WordleGame.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\WordleGame.cpp",
+              "ViewState": "AgIAACEAAACA0szMzMwXwC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T11:57:37.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WordDictionary.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\WordDictionary.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\WordDictionary.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\WordDictionary.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\WordDictionary.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T11:57:36.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Letter.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Letter.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Letter.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Letter.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\Letter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T11:54:49.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Letter.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Letter.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Letter.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Letter.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\Letter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T11:57:29.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Keyboard.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Keyboard.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Keyboard.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Keyboard.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\Keyboard.cpp",
+              "ViewState": "AgIAADUAAAAAMzMzMzMLwAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T11:57:27.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Keyboard.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Keyboard.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Keyboard.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Keyboard.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\Keyboard.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T11:54:50.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WordDictionary.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\WordDictionary.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\WordDictionary.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\WordDictionary.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\WordDictionary.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T11:55:00.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WordleGame.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\WordleGame.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\WordleGame.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\WordleGame.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\WordleGame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T11:54:59.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SnakeGame.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\SnakeGame.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\SnakeGame.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\SnakeGame.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\SnakeGame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T07:33:43.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SnakeGame.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\SnakeGame.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\SnakeGame.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\SnakeGame.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\SnakeGame.cpp",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwPW0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T21:02:16.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SnakeSegment.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\SnakeSegment.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\SnakeSegment.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\SnakeSegment.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\SnakeSegment.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T07:32:08.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SnakeSegment.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\SnakeSegment.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\SnakeSegment.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\SnakeSegment.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\SnakeSegment.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T21:01:49.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Point.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Point.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Point.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Point.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\Point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T07:30:53.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Point.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Point.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Point.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Point.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\Point.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T21:02:37.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Screen.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Screen.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Screen.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Screen.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\Screen.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T21:02:58.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Screen.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Screen.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Screen.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Screen.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\Screen.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T21:01:45.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "utils.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\utils.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\utils.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\utils.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\utils.cpp",
+              "ViewState": "AgIAAAAAAACAmZmZmZkuwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T19:00:47.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Game.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Game.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Game.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\Game.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T16:35:17.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Game.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Game.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Game.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T13:47:05.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HangmanGame.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\HangmanGame.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\HangmanGame.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\HangmanGame.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\HangmanGame.cpp",
+              "ViewState": "AgIAAHMAAAAAaGZmZmYUwBQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T13:48:11.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HangmanGame.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\HangmanGame.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\HangmanGame.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\HangmanGame.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\HangmanGame.h",
+              "ViewState": "AgIAAB0AAAAAAAAAAABcPSgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T13:47:56.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HangmanFigure.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\HangmanFigure.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\HangmanFigure.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\HangmanFigure.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\HangmanFigure.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T13:47:45.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HangmanFigure.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\HangmanFigure.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\HangmanFigure.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\HangmanFigure.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\HangmanFigure.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T13:47:41.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Category.h",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Category.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Category.h",
+              "RelativeToolTip": "OOP_GAMEBOY\\Category.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T13:46:49.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Category.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Category.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Category.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\Category.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T13:46:35.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Source.cpp",
+              "RelativeDocumentMoniker": "OOP_GAMEBOY\\Source.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\OOP_GAMEBOY\\OOP_GAMEBOY\\OOP_GAMEBOY\\Source.cpp",
+              "RelativeToolTip": "OOP_GAMEBOY\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T13:45:59.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
